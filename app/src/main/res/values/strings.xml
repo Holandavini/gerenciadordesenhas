@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gerenciador de Senhas</string>
+    <string name="textTitulo">Armazene suas senhas com segurança</string>
+    <string name="textSenha">Digite a senha</string>
+    <string name="textCriarConta">Cadastra-se</string>
+    <string name="textEntrar">Entrar</string>
+</resources>
